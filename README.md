@@ -1,5 +1,5 @@
 # TodoApp
-Todo App built using Spring Boot, Spring MVC, bit of Spring Secuirty and embedded H2 database
+Todo App built using Spring Boot, Spring MVC, Spring Data JPA, bit of Spring Secuirty for login and logout and embedded H2 database
 
 ## Login Credentials
 **Username:** test
