@@ -6,4 +6,4 @@ Todo App built using Spring Boot, Spring MVC, Spring Data JPA, bit of Spring Sec
 <br>
 **Password:** test
 
-**You can change the credentials by going to the SecurityConfiguration
+**You can change the credentials by going to the SecurityConfiguration**
